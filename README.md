@@ -6,12 +6,11 @@ Team Members: Arash Yousefzadeh, Numair Baig, Ruijiang Ma, Elijah Aldinger, and 
 Structure:
   - PUN2Test: Files for for photon network
   - SQLTest: Files for the database
-  - Webpage: Contains the login in page which connects to the databas
-  - Website: Contains the webisite which will hold the game (Unity)
-  
+  - Webpage: Contains the login in page which connects to the database
+
  How to Run:
-  - Enter the Webpage and either create or login to an account
-  - Be transfered to the website that will hold the game, and the game wil start
+  - Enter the Webpage folder and open home.html
+  - Be transferred to the website that will hold the game, and the game will start
   - Controls
     - Arrow keys (movement)
     - Space Bar (Jump)
