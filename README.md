@@ -1,5 +1,5 @@
 # CSCI-3308-Project
-CSCI 3308 Project Team 6 (Festive Haircut)
+CSCI 3308 Project Team 4 (Festive Haircut)
 
 Team Members: Arash Yousefzadeh, Numair Baig, Ruijiang Ma, Elijah Aldinger, and Charles Bourland
 
